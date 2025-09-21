@@ -1,0 +1,45 @@
+p.highlight {
+  color: rgb(0, 128, 255);
+  font-size: 18px;
+}
+
+div#main-content{
+  background-color: #f8f8f8;
+  padding: 20px;
+}
+
+input[type="text"].input-field {
+  border: 2px solid green;
+  padding: 6px;
+}
+
+p.multiple-classes {
+  font-style: italic;
+  font-weight: bold;
+  color: blue;
+}
+
+a {
+  color: blue;
+}
+
+a.fancy-website {
+  color: purple;
+}
+
+a.fancy-website[href="https://softuni.bg"] {
+  color: red;
+  text-decoration: underline;
+}
+
+input[type="text"].input-field {
+  border: 2px solid green;
+  padding: 6px;
+  background-color: #f0fff0;
+}
+
+input[type="password"].input-field{
+    border: 2px solid green;
+    padding: 6px;
+    background-color: #f0fff0;
+}
