@@ -1,0 +1,27 @@
+h1{
+    color: chocolate;
+}
+
+p{
+    font-size: 20px;
+}
+
+.highlight{
+    background-color: indianred;
+}
+
+#main-title{
+    color: slateblue;
+}
+
+#special-paragraph{
+    font-style: italic;
+}
+
+ul{
+    list-style-type: square;
+}
+
+li{
+    color:darkcyan;
+}
