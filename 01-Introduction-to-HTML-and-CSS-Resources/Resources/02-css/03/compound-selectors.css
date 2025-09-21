@@ -1,6 +1,19 @@
 p.highlight {
-  color: rgb(0, 128, 255);
-  font-size: 18px;
+  color: rgb(39, 88, 238);
+  font-size: 22px;
+  font-weight: bold;
+}
+
+div.special-content{
+    background-color:  orange;
+}
+
+li.important-item{
+color: rgb(0, 157, 255);
+}
+
+li.important-item3{
+    color: red;
 }
 
 div#main-content{
