@@ -1,0 +1,31 @@
+h1, h2, p {
+  color: #333;
+  font-family: Arial, sans-serif;
+}
+
+header, section, footer {
+  margin: 10px 0;
+  padding: 15px;
+  border: 1px solid #ccc;
+}
+
+nav ul {
+  list-style: none;     
+  margin: 0;             
+  padding: 0;            
+  display: flex;    /*подреждане на елементите в един ред*/
+  gap: 20px;        /*пространство между връзките*/        
+}
+
+nav ul li a {
+  display: block;
+  padding: 8px 12px;
+  text-decoration: none;
+  color: #333;
+}
+nav a:hover,
+.services a:hover,
+footer a:hover {
+  color: #007bff;
+  text-decoration: underline;
+}
